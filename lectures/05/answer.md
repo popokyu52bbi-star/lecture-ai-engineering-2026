@@ -1,5 +1,7 @@
 # 第5回 解答
 
+- 課題を格納しているGitHubリポジトリ（Public）：https://github.com/popokyu52bbi-star/lecture-ai-engineering-2026
+
 ## 演習
 
 - 回答モデル（実行時の`[model]`）：`gemini-3.5-flash-lite`
